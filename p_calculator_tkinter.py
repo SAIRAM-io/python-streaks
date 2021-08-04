@@ -1,7 +1,7 @@
 from tkinter import *
 
 window = Tk()
-window.title("Simple Calculator")
+window.title("Mini Calculator")
 
 e = Entry(window, width=45, borderwidth=3)
 e.grid(row=0, column=0, columnspan=4, padx=10, pady=10)
